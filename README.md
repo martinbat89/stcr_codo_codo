@@ -8,7 +8,7 @@ Este proyecto fué desarrollado como parte del proyecto final de el curso de Fun
 
 ## Acceso
 
-[Link a la App](https://inscripcionesagencia.bue.edu.ar/codoacodo/)
+[Link a la App](https://stcrcodocodo-ljp5ydfwxptp2j5gjaekra.streamlit.app/)
 
 ## Información del Dataset Utilizado
 
